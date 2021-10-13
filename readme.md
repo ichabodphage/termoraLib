@@ -9,6 +9,7 @@ the HTTP node.js module
 
 ### instalation
 instalation can be done by either doing
+
         npm i termoraLib
     
 or cloning the git repository
