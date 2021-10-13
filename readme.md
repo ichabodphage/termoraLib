@@ -10,13 +10,13 @@ the HTTP node.js module
 ### instalation
 instalation can be done by either doing
 
-        npm i termoraLib
+    npm i termoraLib
     
 or cloning the git repository
 
 in your JS file, include the file using require.
 
-        var termora = require("termora.js")
+    var termora = require("termora.js")
     
 ---
 ## instance variables
