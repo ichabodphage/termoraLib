@@ -1,9 +1,9 @@
-# termoraApi.js documentation
+# termora.js documentation
 ---
 ## dependancies
 node.js v16.7.0 or higher
 
-the HTTP node.js module
+the HTTPS node.js module
 
 ---
 ## usage
@@ -17,7 +17,7 @@ or cloning the git repository
 
 in your JS file, include the file using require.
 
-    var termora = require("termora.js")
+    var termora = require("termoralib")
     
 ---
 ## instance variables

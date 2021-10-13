@@ -1,0 +1,7 @@
+{
+  "name": "termoralib",
+  "version": "0.0.5",
+  "dependencies": {
+    "https": "^1.0.0"
+  }
+}
