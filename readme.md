@@ -2,9 +2,17 @@
 ---
 ## dependancies
 node.js v16.7.0 or higher
-the HTTP module
+the HTTP node.js module
+
 ---
 ## usage
+
+### instalation
+instalation can be done by either doing
+    npm i termoraLib
+or cloning the git repository
+
+in your JS file, include the file using require.
     var termora = require("termora.js")
 ---
 ## instance variables
